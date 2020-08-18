@@ -1,0 +1,1 @@
+document.getElementById("lastcard").textContent="HELLO WORLD";
